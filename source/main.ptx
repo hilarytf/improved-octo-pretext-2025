@@ -5,15 +5,19 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>My Greatest Book</title>
-    <subtitle>An example to get you started</subtitle>
+    <title>Math 160 Calculus for Physical Scientists I</title>
+    <!-- <subtitle>An example to get you started</subtitle> -->
 
     <!-- Include frontmatter -->
     <xi:include href="./frontmatter.ptx" />
 
     <!-- Include chapters -->
+    <xi:include href="./ch-chapter-Limits.ptx" />
     <xi:include href="./ch-chapter-title.ptx" />
 
+    <!-- include activities?-->
+    <xi:include href="./activities/wkst-relns-digramphs.ptx"/>
+    <xi:include href="./activities/wkst-eqrel-counting.ptx"/>
 
     <!-- Include backmatter -->
     <xi:include href="./backmatter.ptx" />
