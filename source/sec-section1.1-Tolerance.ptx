@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-tolerance" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Tolerance</title>
+
+  <p> Investigate limits through tolerance problems. </p>
+
+  <outcomes>
+    <ul>
+      <li>Graph piecewise-defined functions and parabolas by hand.</li>
+      <li>Graphically add output tolerance (epsilon) information to the graph of the function (i.e. sketch horizontal lines).</li>
+      <li>Use the graph and output tolerance lines to sketch vertical lines to show the input tolerance.</li>
+      <li>Algebraically determine the input tolerance (delta) that guarantees f(x) is within a given output tolerance (epsilon) given a function.</li>
+      <li>Use the graph and output/input tolerance (epsilon/delta) windows to confirm results found algebraically. </li>
+      <li>Algebraically determine the input tolerance (delta) that guarantees f(x) is within a given output tolerance (epsilon) from a word problem.</li>
+    </ul>
+  </outcomes>
+  
+
+</section>

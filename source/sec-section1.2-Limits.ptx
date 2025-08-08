@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-limits" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Limits</title>
+
+  <p> Introduce the idea of limits </p>
+
+  <outcomes>
+    <ul>
+      <li>Explain in non-technical language what a limit is.</li>
+      <li>Explain in common, non-technical, language what a limit does. (A limit tells us about the <m>f(x)</m> values near <m>x=c</m> but not at <m>x=c</m>.)</li>
+      <li>Approximate limits numerically and graphically. </li>
+      <li>Use the Limit Properties to find the limits of combinations functions as <m>x</m> approaches some number <m>a</m>, given the limits of these functions as <m>x</m> approaches <m>a</m>.</li>
+      <li>Evaluate limits exactly using limit properties where possible. </li>
+    </ul>
+  </outcomes>
+  
+
+</section>

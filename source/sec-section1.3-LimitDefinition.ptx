@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-section-LimitDefinition" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Limit Definition</title>
+
+  <p> Build a definition of limit. </p>
+
+  <outcomes>
+    <ul>
+      <li>State the definition of limit: The limit of a function <m>f(x)</m> as <m>x</m> approaches <m>c</m> is a number <m>L</m> (if it exists) such that <m>f(x)</m> is as close to <m>L</m> as we want whenever <m>x</m> is sufficiently close to <m>c</m> (but <m>x</m> does not equal <m>c</m>).</li>
+      <li>Express the limit <m>(L)</m> of a function <m>f(x)</m> as <m>x</m> approaches <m>c</m> using mathematical notation. </li>
+      <li>Explain why a table showing (exact) values of a function <m>f(x)</m> for <m>x</m> values close to <m>c</m> cannot conclusively establish the value of the limit of the function as <m>x</m> approaches <m>c</m>. </li>
+      <li>Use the definition of limit and the graph of a function to explain why a limit does not exist.</li>
+      <li>Use the Limit Properties to find the limits of combinations functions as <m>x</m> approaches some number <m>c</m>, given the limits of these functions as <m>x</m> approaches <m>c</m>.</li>
+    </ul>
+  </outcomes>
+  
+
+</section>
