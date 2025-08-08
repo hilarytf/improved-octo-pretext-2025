@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-limits" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Limits Module 1</title>
+
+  <introduction>
+    <p> Text before the first blah section. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-section1.1-Tolerance.ptx" />
+  <xi:include href="sec-section1.2-Limits.ptx" />
+  <xi:include href="sec-section1.3-LimitDefinition.ptx" />
+
+</chapter>
