@@ -5,7 +5,7 @@
   <xi:include href="./docinfo.ptx" />
 
   <book xml:id="my-great-book">
-    <title>Math 160 Calculus for Physical Scientists I</title>
+    <title>Math 160 Calculus for Physical Scientists 1</title>
     <!-- <subtitle>An example to get you started</subtitle> -->
 
     <!-- Include frontmatter -->
