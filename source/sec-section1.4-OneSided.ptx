@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Limits</title>
+<section xml:id="sec-section-OneSided" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>One-Sided Limits</title>
 
   <p> Introduce the topic </p>
 
   <outcomes>
     <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Evaluate one-sided limits graphically and algebraically.</li>
+      <li>Use information about the one-sided limits to infer the existence or non-existence of a (two-sided) limit.</li>
+      <li>Reframe functions with absolute values using piecewise-defined functions and evaluate limits.</li>
     </ul>
   </outcomes>
   

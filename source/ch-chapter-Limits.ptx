@@ -11,5 +11,7 @@
   <xi:include href="sec-section1.1-Tolerance.ptx" />
   <xi:include href="sec-section1.2-Limits.ptx" />
   <xi:include href="sec-section1.3-LimitDefinition.ptx" />
+  <xi:include href="sec-section1.4-OneSided.ptx" />
+  <xi:include href="sec-section1.5-Continuity.ptx" />
 
 </chapter>

@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Limits</title>
+<section xml:id="sec-section-Continuity" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Continuity</title>
 
   <p> Introduce the topic </p>
 
   <outcomes>
     <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Explain in common, non-technical, language what it means to say a function is continuous at a point. (Function values at x=c are close to function values for inputs near x=c.)</li>
+      <li>State the definition of continuity at a point: A function f is continuous at x=c if f is defined at c and if the limit as x approaches c of f(x) is equal to f(c).</li>
+      <li>Use the definition of continuity to show if a function is or is not continuous at a point. </li>
+      <li>Identify the four types of discontinuities graphically. (Removable, jump, infinite, infinite oscillation)</li>
+      <li>Extend the definition of continuity at a point to continuity on an interval.</li>
+      <li>List common functions that are continuous everywhere. (exponentials, polynomials, sine and cosine, and compositions/combinations of continuous functions)</li>
+      <li>Construct examples of functions that are discontinuous at x=c but the limit as x approaches c does exist.</li>
+      <li>Use the definition of continuity to determine if a piecewise-defined function is continuous at a point.</li>
+      <li>Use limits and the definition of continuity to determine values for which a piecewise-defined function involving parameters is continuous.</li>
+      <li>Give graphical examples of functions that are not continuous at a point x=a, but do have a limit as x approaches a; are not continuous at a point x=a, but are defined at the point x = a; are not continuous at a point x=a, but have both a left-hand and a right-hand limit as x approaches a. If it is not possible to give such an example, explain why.</li>  
     </ul>
   </outcomes>
   
