@@ -64,6 +64,42 @@ var ptx_lunr_docs = [
   "body": "  State the definition of limit: The limit of a function as approaches is a number (if it exists) such that is as close to as we want whenever is sufficiently close to (but does not equal ).  Express the limit of a function as approaches using mathematical notation.  Explain why a table showing (exact) values of a function for values close to cannot conclusively establish the value of the limit of the function as approaches .  Use the definition of limit and the graph of a function to explain why a limit does not exist.  Use the Limit Properties to find the limits of combinations functions as approaches some number , given the limits of these functions as approaches .   "
 },
 {
+  "id": "sec-section-OneSided",
+  "level": "1",
+  "url": "sec-section-OneSided.html",
+  "type": "Section",
+  "number": "1.4",
+  "title": "One-Sided Limits",
+  "body": " One-Sided Limits  Introduce the topic    Evaluate one-sided limits graphically and algebraically.  Use information about the one-sided limits to infer the existence or non-existence of a (two-sided) limit.  Reframe functions with absolute values using piecewise-defined functions and evaluate limits.    "
+},
+{
+  "id": "sec-section-OneSided-3",
+  "level": "2",
+  "url": "sec-section-OneSided.html#sec-section-OneSided-3",
+  "type": "Outcomes",
+  "number": "1.4",
+  "title": "",
+  "body": "  Evaluate one-sided limits graphically and algebraically.  Use information about the one-sided limits to infer the existence or non-existence of a (two-sided) limit.  Reframe functions with absolute values using piecewise-defined functions and evaluate limits.   "
+},
+{
+  "id": "sec-section-Continuity",
+  "level": "1",
+  "url": "sec-section-Continuity.html",
+  "type": "Section",
+  "number": "1.5",
+  "title": "Continuity",
+  "body": " Continuity  Introduce the topic    Explain in common, non-technical, language what it means to say a function is continuous at a point. (Function values at x=c are close to function values for inputs near x=c.)  State the definition of continuity at a point: A function f is continuous at x=c if f is defined at c and if the limit as x approaches c of f(x) is equal to f(c).  Use the definition of continuity to show if a function is or is not continuous at a point.  Identify the four types of discontinuities graphically. (Removable, jump, infinite, infinite oscillation)  Extend the definition of continuity at a point to continuity on an interval.  List common functions that are continuous everywhere. (exponentials, polynomials, sine and cosine, and compositions\/combinations of continuous functions)  Construct examples of functions that are discontinuous at x=c but the limit as x approaches c does exist.  Use the definition of continuity to determine if a piecewise-defined function is continuous at a point.  Use limits and the definition of continuity to determine values for which a piecewise-defined function involving parameters is continuous.  Give graphical examples of functions that are not continuous at a point x=a, but do have a limit as x approaches a; are not continuous at a point x=a, but are defined at the point x = a; are not continuous at a point x=a, but have both a left-hand and a right-hand limit as x approaches a. If it is not possible to give such an example, explain why.    "
+},
+{
+  "id": "sec-section-Continuity-3",
+  "level": "2",
+  "url": "sec-section-Continuity.html#sec-section-Continuity-3",
+  "type": "Outcomes",
+  "number": "1.5",
+  "title": "",
+  "body": "  Explain in common, non-technical, language what it means to say a function is continuous at a point. (Function values at x=c are close to function values for inputs near x=c.)  State the definition of continuity at a point: A function f is continuous at x=c if f is defined at c and if the limit as x approaches c of f(x) is equal to f(c).  Use the definition of continuity to show if a function is or is not continuous at a point.  Identify the four types of discontinuities graphically. (Removable, jump, infinite, infinite oscillation)  Extend the definition of continuity at a point to continuity on an interval.  List common functions that are continuous everywhere. (exponentials, polynomials, sine and cosine, and compositions\/combinations of continuous functions)  Construct examples of functions that are discontinuous at x=c but the limit as x approaches c does exist.  Use the definition of continuity to determine if a piecewise-defined function is continuous at a point.  Use limits and the definition of continuity to determine values for which a piecewise-defined function involving parameters is continuous.  Give graphical examples of functions that are not continuous at a point x=a, but do have a limit as x approaches a; are not continuous at a point x=a, but are defined at the point x = a; are not continuous at a point x=a, but have both a left-hand and a right-hand limit as x approaches a. If it is not possible to give such an example, explain why.   "
+},
+{
   "id": "sec-section-deratapoint",
   "level": "1",
   "url": "sec-section-deratapoint.html",
