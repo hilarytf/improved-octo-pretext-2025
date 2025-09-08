@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Limits</title>
+<section xml:id="sec-section-IVT" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Intermediate Value Theorem</title>
 
   <p> Introduce the topic </p>
 
   <outcomes>
     <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Identify the hypothesis/antecedent and conclusion/consequent parts of a theorem.</li>
+      <li>Construct a counterexample to a false statement and explain how the example satisfies the hypothesis but does not satisfy the conclusion.</li>
+      <li>Construct an example that does not satisfy the hypothesis but still satisfies the conclusion.</li>
+      <li>Quote the Intermediate Value Theorem.</li>
+      <li>Apply the Intermediate Value Theorem to explain why a given function must take on certain values and why certain equations must have solutions.</li>
     </ul>
   </outcomes>
   

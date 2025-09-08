@@ -13,5 +13,6 @@
   <xi:include href="sec-section1.3-LimitDefinition.ptx" />
   <xi:include href="sec-section1.4-OneSided.ptx" />
   <xi:include href="sec-section1.5-Continuity.ptx" />
+  <xi:include href="sec-section1.6-IVT.ptx" />
 
 </chapter>
