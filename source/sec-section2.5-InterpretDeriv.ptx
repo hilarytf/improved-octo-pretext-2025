@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Limits</title>
+<section xml:id="sec-section-InterpretDeriv" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Interpreting Derivatives</title>
 
   <p> Introduce the topic </p>
 
   <outcomes>
     <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Find the (instantaneous) rate of change of the dependent variable with respect to the independent variable for a function y = f(x) that models a physical situation (e.g. volume as a function of time, volume as a function of radius), and state the units of instantaneous rate of change.</li>
+      <li>Describe what information the sign of the derivative provides about the original function, in context of a real-world scenario.</li>
+      <li>Translate between Leibniz notation, f' notation and written words to describe derivatives, in context of a real-world problem.</li>
+      <li>Explain how Leibniz notation for the derivative relates to the slope interpretation. Use Leibniz notation to make sense of the units of the derivative.</li>
     </ul>
   </outcomes>
   

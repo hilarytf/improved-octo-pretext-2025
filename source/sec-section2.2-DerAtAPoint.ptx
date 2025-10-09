@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <section xml:id="sec-section-deratapoint" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Limits</title>
+  <title>Derivative at a Point</title>
 
-  <p> Introduce the idea of limits </p>
+  <p> Compute the Derivative at a Point </p>
 
   <outcomes>
     <ul>
-      <li>Explain in non-technical language what a limit is.</li>
-      <li>Explain in common, non-technical, language what a limit does. (A limit tells us about the <m>f(x)</m> values near <m>x=c</m> but not at <m>x=c</m>.)</li>
-      <li>Approximate limits numerically and graphically. </li>
-      <li>Use the Limit Properties to find the limits of combinations functions as <m>x</m> approaches some number <m>a</m>, given the limits of these functions as <m>x</m> approaches <m>a</m>.</li>
-      <li>Evaluate limits exactly using limit properties where possible. </li>
-    </ul>
+    <li>Graphically and algebraically explain the similarities and differences between the tangent line, secant line, slope of a tangent line, slope of a secant line, difference quotient and derivative.</li>
+    <li>Explain why the definition of the derivative requires taking a limit and what the limit means in this setting.</li>
+    <li>State the definition of derivative of a function y = f(x) at a specific point x = a (as a limit).</li>
+    <li>Use the limit definition of the derivative to find the derivative of a function at a specified point, provided the limit exists. </li>
+    <li>Find an equation in point-slope form for the line tangent to the graph of a differentiable function at a given point.</li></ul>
   </outcomes>
   
 

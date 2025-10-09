@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<chapter xml:id="ch-chapter-Derivatives" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Derivatives</title>
+
+  <introduction>
+    <p> Develop concept of Derivative. </p>
+  </introduction>
+
+  <!-- include sections -->
+  <xi:include href="sec-section2.1-AROC.ptx" />
+  <xi:include href="sec-section2.2-DerAtAPoint.ptx" />
+  <xi:include href="sec-section2.3-DerAsAFunction.ptx" />
+  <xi:include href="sec-section2.4-Differentiability.ptx" />
+  <xi:include href="sec-section2.5-InterpretDeriv.ptx" />
+  
+ 
+
+</chapter>

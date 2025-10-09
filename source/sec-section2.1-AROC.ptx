@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
-  <title>Limits</title>
+<section xml:id="sec-section-AROC" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>AROC</title>
 
-  <p> Introduce the topic </p>
+  <p> Introduce the Average Rates of Change </p>
 
   <outcomes>
     <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
+      <li>Compute average rates of change.  </li>
+      <li>Approximate an instantaneous rate of change.</li>
+      <li>Interpret the average velocity physically in terms of motion and graphically as the slope of a secant line.</li>
+      <li>Interpret the instantaneous velocity physically in terms of motion and graphically as the slope of a tangent line.</li>
+      <li>Estimate instantaneous velocity graphically using secant lines.</li>
+      <li>Estimate instantaneous velocity graphically by drawing a line tangent to the graph at a specific point and computing its slope.</li>
+      <li>Estimate instantaneous velocity for a function at a point numerically by computing the difference quotient for several values of h.</li>
     </ul>
   </outcomes>
   
