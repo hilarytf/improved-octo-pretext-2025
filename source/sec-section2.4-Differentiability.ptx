@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<section xml:id="sec-section-name" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="sec-section-Diff" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Limits</title>
 
   <p> Introduce the topic </p>
 
   <outcomes>
     <ul>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-      <li></li>
-    </ul>
+      <li>Use a graph to determine the points (x-values) for which the function is and is not differentiable.</li>
+      <li>Use the definition of the derivative of a function at a specific point x = a to determine whether a function given by a specific formula (perhaps defined piecewise) is or is not differentiable at a given point x = a.</li>
+      <li>Explain why a function that is not continuous at a point x = a must also not be differentiable at the point x = a. (Therefore, in order for a function to be differentiable at a point, it must be continuous there.)</li>
+      <li>Use the definitions of differentiability and continuity at a point to show that a function that has a derivative at a point x = a must also be continuous at that point.</li>
+      <li>Give examples, by graphs and/or equations, of functions that are continuous but not differentiable at a point.</li>
+      <li>Provide an example of a function y=f(x) and a point x = a such that the derivative does not exist at that point.</li>
+    </ul> 
   </outcomes>
   
 
