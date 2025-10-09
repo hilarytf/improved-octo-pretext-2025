@@ -177,8 +177,8 @@ var ptx_lunr_docs = [
   "url": "sec-section-Diff.html",
   "type": "Section",
   "number": "2.4",
-  "title": "Limits",
-  "body": " Limits  Introduce the topic    Use a graph to determine the points (x-values) for which the function is and is not differentiable.  Use the definition of the derivative of a function at a specific point x = a to determine whether a function given by a specific formula (perhaps defined piecewise) is or is not differentiable at a given point x = a.  Explain why a function that is not continuous at a point x = a must also not be differentiable at the point x = a. (Therefore, in order for a function to be differentiable at a point, it must be continuous there.)  Use the definitions of differentiability and continuity at a point to show that a function that has a derivative at a point x = a must also be continuous at that point.  Give examples, by graphs and\/or equations, of functions that are continuous but not differentiable at a point.  Provide an example of a function y=f(x) and a point x = a such that the derivative does not exist at that point.    "
+  "title": "Differentiability",
+  "body": " Differentiability  Introduce the topic    Use a graph to determine the points (x-values) for which the function is and is not differentiable.  Use the definition of the derivative of a function at a specific point x = a to determine whether a function given by a specific formula (perhaps defined piecewise) is or is not differentiable at a given point x = a.  Explain why a function that is not continuous at a point x = a must also not be differentiable at the point x = a. (Therefore, in order for a function to be differentiable at a point, it must be continuous there.)  Use the definitions of differentiability and continuity at a point to show that a function that has a derivative at a point x = a must also be continuous at that point.  Give examples, by graphs and\/or equations, of functions that are continuous but not differentiable at a point.  Provide an example of a function y=f(x) and a point x = a such that the derivative does not exist at that point.    "
 },
 {
   "id": "sec-section-Diff-3",
